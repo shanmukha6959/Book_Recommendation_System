@@ -1,11 +1,10 @@
 # Book_Recommendation_System
-This project is part of the “Machine Learning &amp; Advanced Machine Learning” curriculum as capstone projects at Almabetter.
 
 ## Objective
 
 The main objective is to create a book recommendation system for users. Recommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors.
 
-## Methods Used
+## Methods
 
 * Descriptive Statistics
 
@@ -27,5 +26,3 @@ The Book-Crossing dataset comprises 3 files.
 * Data Cleaning - Missing value imputation,Outlier Treaatment
 * Feature Selection - Used User-ID,ISBN and Books-Rating for model development.
 * Model development - Tried Popularity based model and Collaborative filtering (Both Memory based and Model based).
-
-**Check out the attached .ipynb file to get all the codes and pdf for overall crux of the problem statement**
